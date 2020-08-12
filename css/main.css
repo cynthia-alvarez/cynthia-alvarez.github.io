@@ -967,6 +967,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	position: relative;
 	height: 100%;
 }
+
+.skill-bars .lang-legend {
+	color: #ffffff;
+}
+
+.skill-bars .lang-bar {
+	color: #a1a1a1;
+}
+
 .skill-bars li .progress span {
 	position: absolute;
 	right: 0;
